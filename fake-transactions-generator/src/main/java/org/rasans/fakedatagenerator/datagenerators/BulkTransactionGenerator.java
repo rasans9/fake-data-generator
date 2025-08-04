@@ -1,4 +1,4 @@
-package org.rasans;
+package org.rasans.fakedatagenerator.datagenerators;
 
 import com.github.javafaker.Faker;
 

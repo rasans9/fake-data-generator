@@ -25,7 +25,7 @@
             <configuration>
               <transformers>
                 <transformer>
-                  <mainClass>org.rasans.Main</mainClass>
+                  <mainClass>org.rasans.fakedatarequesttriggers.api.Main</mainClass>
                 </transformer>
               </transformers>
             </configuration>
