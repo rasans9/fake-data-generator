@@ -6,7 +6,7 @@ import java.util.Map;
 
 import static org.rasans.fakedatagenerator.datagenerators.BulkTransactionGenerator.generateTransaction;
 
-public class Main {
+public class TriggerTransactions {
     public static void main(String[] args) {
         int recordCount = 1000000;
         List<Map<String, Object>> transactions = new ArrayList<>();
