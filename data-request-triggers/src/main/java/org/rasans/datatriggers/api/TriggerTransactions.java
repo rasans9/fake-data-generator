@@ -1,10 +1,10 @@
-package org.rasans.fakedatarequesttriggers.api;
+package org.rasans.datatriggers.api;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
 
-import static org.rasans.fakedatagenerator.datagenerators.BulkTransactionGenerator.generateTransaction;
+import static org.rasans.transactionsgenerator.generators.BulkTransactionGenerator.generateTransaction;
 
 public class TriggerTransactions {
     public static void main(String[] args) {

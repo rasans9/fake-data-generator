@@ -10,7 +10,7 @@
     <packaging>pom</packaging>
 
     <modules>
-        <module>fake-data-request-triggers</module>
+        <module>data-request-triggers</module>
         <module>fake-transactions-generator</module>
     </modules>
 
